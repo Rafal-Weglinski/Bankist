@@ -4,6 +4,8 @@
 /////////////////////////////////////////////////
 // BANKIST APP
 
+alert('login credentials: \njs 1111 \nor \njd 2222');
+
 // Data
 const account1 = {
   owner: 'Jonas Schmedtmann',
